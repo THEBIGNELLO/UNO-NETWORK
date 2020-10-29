@@ -1,4 +1,4 @@
-import os
+Gimport os
 import sys
 import random
 import math
@@ -1287,7 +1287,7 @@ class Match():
                 selection = str(input('\nSelection: ')).upper()
                 
             if selection == '1' or "":
-                return ""
+                return to game ""
                 
             elif selection == '2':
                 return "quit"
